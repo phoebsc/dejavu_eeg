@@ -8,79 +8,80 @@ import shutil
 usage = "usage: %prog [options] TESTING_AUDIOFOLDER"
 parser = OptionParser(usage=usage, version="%prog 1.1")
 parser.add_option("--secs",
-                  action="store",
-                  dest="secs",
-                  default=5,
-                  type=int,
-                  help='Number of seconds starting from zero to test')
+				  action="store",
+				  dest="secs",
+				  default=5,
+				  type=int,
+				  help='Number of seconds starting from zero to test')
 parser.add_option("--results",
-                  action="store",
-                  dest="results_folder",
-                  default="./dejavu_test_results",
-                  help='Sets the path where the results are saved')
+				  action="store",
+				  dest="results_folder",
+				  default="./dejavu_test_results",
+				  help='Sets the path where the results are saved')
 parser.add_option("--temp",
-                  action="store",
-                  dest="temp_folder",
-                  default="./dejavu_temp_testing_files",
-                  help='Sets the path where the temp files are saved')
+				  action="store",
+				  dest="temp_folder",
+				  default="./dejavu_temp_testing_files",
+				  help='Sets the path where the temp files are saved')
 parser.add_option("--log",
-                  action="store_true",
-                  dest="log",
-                  default=True,
-                  help='Enables logging')
+				  action="store_true",
+				  dest="log",
+				  default=True,
+				  help='Enables logging')
 parser.add_option("--silent",
-                  action="store_false",
-                  dest="silent",
-                  default=False,
-                  help='Disables printing')
+				  action="store_false",
+				  dest="silent",
+				  default=False,
+				  help='Disables printing')
 parser.add_option("--log-file",
-                  dest="log_file",
-                  default="results-compare.log",
-                  help='Set the path and filename of the log file')
+				  dest="log_file",
+				  default="results-compare.log",
+				  help='Set the path and filename of the log file')
 parser.add_option("--padding",
-                  action="store",
-                  dest="padding",
-                  default=10,
-                  type=int,
-                  help='Number of seconds to pad choice of place to test from')
+				  action="store",
+				  dest="padding",
+				  default=10,
+				  type=int,
+				  help='Number of seconds to pad choice of place to test from')
 parser.add_option("--seed",
-                  action="store",
-                  dest="seed",
-                  default=None,
-                  type=int,
-                  help='Random seed')
+				  action="store",
+				  dest="seed",
+				  default=None,
+				  type=int,
+				  help='Random seed')
 options, args = parser.parse_args()
-test_folder = args[0]
+test_folder = "./mp3"
+#test_folder = args[0]
 
 # set random seed if set by user
 set_seed(options.seed)
 
 # ensure results folder exists
 try:
-    os.stat(options.results_folder)
+	os.stat(options.results_folder)
 except:
-    os.mkdir(options.results_folder)
+	os.mkdir(options.results_folder)
 
 # set logging 
 if options.log:
-    logging.basicConfig(filename=options.log_file, level=logging.DEBUG)
+	logging.basicConfig(filename=options.log_file, level=logging.DEBUG)
 
 # set test seconds
 test_seconds = ['%dsec' % i for i in range(1, options.secs + 1, 1)]
 
 # generate testing files
 for i in range(1, options.secs + 1, 1):
-    generate_test_files(test_folder, options.temp_folder, 
-                        i, padding=options.padding)
+	generate_test_files(test_folder, options.temp_folder, 
+						i, padding=options.padding)
 
 # scan files
 log_msg("Running Dejavu fingerprinter on files in %s..." % test_folder, 
-        log=options.log, silent=options.silent)
+		log=options.log, silent=options.silent)
 
 tm = time.time()
 djv = DejavuTest(options.temp_folder, test_seconds)
 log_msg("finished obtaining results from dejavu in %s" % (time.time() - tm),
-        log=options.log, silent=options.silent)
+		log=options.log, silent=options.silent)
 
 tests = 1  # djv
 n_secs = len(test_seconds) 
@@ -142,9 +143,8 @@ for sec in range(0, n_secs):
 	#ax.legend((rects1[0]), ('Dejavu'), loc='center left', bbox_to_anchor=(1, 0.5))
 	autolabeldoubles(rects1,ax)
 	plt.grid()
-
- 	fig_name = os.path.join(options.results_folder, "matching_perc_%s.png" % test_seconds[sec])
- 	fig.savefig(fig_name)
+	fig_name = os.path.join(options.results_folder, "matching_perc_%s.png" % test_seconds[sec])
+	fig.savefig(fig_name)
 
 for sec in range(0, n_secs):
 	ind = np.arange(2) #
@@ -177,8 +177,8 @@ for sec in range(0, n_secs):
 
 	plt.grid()
 
- 	fig_name = os.path.join(options.results_folder, "matching_acc_%s.png" % test_seconds[sec])
- 	fig.savefig(fig_name)
+	fig_name = os.path.join(options.results_folder, "matching_acc_%s.png" % test_seconds[sec])
+	fig.savefig(fig_name)
 
 # remove temporary folder
 shutil.rmtree(options.temp_folder)

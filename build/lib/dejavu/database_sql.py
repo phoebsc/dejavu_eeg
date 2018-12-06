@@ -344,7 +344,6 @@ class Cursor(object):
             conn = self._cache.get_nowait()
         except queue.Empty:
             conn = mysql.connect(**options)
-
         else:
             # Ping the connection before using it from the cache.
             conn.ping(True)

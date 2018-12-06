@@ -1,6 +1,6 @@
 from dejavu.database import get_database, Database
 import dejavu.decoder as decoder
-from . import fingerprint
+import fingerprint
 import multiprocessing
 import os
 import traceback
