@@ -65,7 +65,8 @@ def fingerprint(channel_samples, Fs=DEFAULT_FS,
                 wsize=DEFAULT_WINDOW_SIZE,
                 wratio=DEFAULT_OVERLAP_RATIO,
                 fan_value=DEFAULT_FAN_VALUE,
-                amp_min=DEFAULT_AMP_MIN):
+                amp_min=DEFAULT_AMP_MIN,
+                plot=False):
     """
     FFT the channel, log transform output, find local maxima, then return
     locally sensitive hashes.
@@ -83,7 +84,7 @@ def fingerprint(channel_samples, Fs=DEFAULT_FS,
     arr2D[arr2D == -np.inf] = 0  # replace infs with zeros
 
     # find local maxima
-    local_maxima = get_2D_peaks(arr2D, plot=False, amp_min=amp_min)
+    local_maxima = get_2D_peaks(arr2D, plot=plot, amp_min=amp_min)
 
     # return hashes
     return generate_hashes(local_maxima, fan_value=fan_value)
@@ -101,7 +102,9 @@ def get_2D_peaks(arr2D, plot=False, amp_min=DEFAULT_AMP_MIN):
                                        border_value=1)
 
     # Boolean mask of arr2D with True at peaks
-    detected_peaks = local_max - eroded_background
+    local_max = local_max.astype(np.float32)
+    eroded_background = eroded_background.astype(np.float32)
+    detected_peaks = (local_max - eroded_background).astype(np.bool)
 
     # extract peaks
     amps = arr2D[detected_peaks]
@@ -137,7 +140,8 @@ def generate_hashes(peaks, fan_value=DEFAULT_FAN_VALUE):
     [(e05b341a9b77a51fd26, 32), ... ]
     """
     if PEAK_SORT:
-        peaks.sort(key=itemgetter(1))
+        #peaks.sort(key=itemgetter(1))
+        peaks = sorted(peaks , key=itemgetter(1))
 
     for i in range(len(peaks)):
         for j in range(1, fan_value):
@@ -150,6 +154,6 @@ def generate_hashes(peaks, fan_value=DEFAULT_FAN_VALUE):
                 t_delta = t2 - t1
 
                 if t_delta >= MIN_HASH_TIME_DELTA and t_delta <= MAX_HASH_TIME_DELTA:
-                    h = hashlib.sha1(
-                        "%s|%s|%s" % (str(freq1), str(freq2), str(t_delta)))
+                    strr = "%s|%s|%s" % (str(freq1), str(freq2), str(t_delta))
+                    h = hashlib.sha1(strr.encode('utf-8'))
                     yield (h.hexdigest()[0:FINGERPRINT_REDUCTION], t1)

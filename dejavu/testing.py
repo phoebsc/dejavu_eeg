@@ -137,18 +137,18 @@ class DejavuTest(object):
         print("lines:", self.n_lines)
 
         # variable match results (yes, no, invalid)
-        self.result_match = [[0 for x in xrange(self.n_columns)] for x in xrange(self.n_lines)] 
+        self.result_match = [[0 for x in range(self.n_columns)] for x in range(self.n_lines)]
 
         print("result_match matrix:", self.result_match)
 
         # variable match precision (if matched in the corrected time)
-        self.result_matching_times = [[0 for x in xrange(self.n_columns)] for x in xrange(self.n_lines)] 
+        self.result_matching_times = [[0 for x in range(self.n_columns)] for x in range(self.n_lines)]
 
         # variable mahing time (query time) 
-        self.result_query_duration = [[0 for x in xrange(self.n_columns)] for x in xrange(self.n_lines)] 
+        self.result_query_duration = [[0 for x in range(self.n_columns)] for x in range(self.n_lines)]
 
         # variable confidence
-        self.result_match_confidence = [[0 for x in xrange(self.n_columns)] for x in xrange(self.n_lines)] 
+        self.result_match_confidence = [[0 for x in range(self.n_columns)] for x in range(self.n_lines)]
 
         self.begin()
 
@@ -212,11 +212,11 @@ class DejavuTest(object):
             song = path_to_songname(f).split("_")[0]  
             line = self.get_line_id(song)
             result = subprocess.check_output([
-                "python", 
+                "python3",
                 "dejavu.py",
                 '-r',
-                'file', 
-                self.test_folder + "/" + f])
+                'file',
+                './dejavu_temp_testing_files' + "/" + f])
 
             if result.strip() == "None":
                 log_msg('No match')
@@ -227,10 +227,11 @@ class DejavuTest(object):
             
             else:
                 result = result.strip()
-                result = result.replace(" \'", ' "')
-                result = result.replace("{\'", '{"')
-                result = result.replace("\':", '":')
-                result = result.replace("\',", '",')
+                result = result.replace(b" \'", b' "')
+                result = result.replace(b"{\'", b'{"')
+                result = result.replace(b"\':", b'":')
+                result = result.replace(b"\',", b'",')
+                result = result.decode('utf-8') #added
 
                 # which song did we predict?
                 result = ast.literal_eval(result)

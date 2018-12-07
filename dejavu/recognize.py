@@ -1,7 +1,7 @@
 import dejavu.fingerprint as fingerprint
 import dejavu.decoder as decoder
 import numpy as np
-#import pyaudio
+import pyaudio
 import time
 
 
@@ -43,7 +43,7 @@ class FileRecognizer(BaseRecognizer):
     def recognize(self, filename):
         return self.recognize_file(filename)
 
-'''
+
 class MicrophoneRecognizer(BaseRecognizer):
     default_chunksize   = 8192
     default_format      = pyaudio.paInt16
@@ -109,7 +109,7 @@ class MicrophoneRecognizer(BaseRecognizer):
             self.process_recording()
         self.stop_recording()
         return self.recognize_recording()
-'''
+
 
 class NoRecordingError(Exception):
     pass

@@ -80,6 +80,7 @@ log_msg("Running Dejavu fingerprinter on files in %s..." % test_folder,
 
 tm = time.time()
 djv = DejavuTest(options.temp_folder, test_seconds)
+
 log_msg("finished obtaining results from dejavu in %s" % (time.time() - tm),
 		log=options.log, silent=options.silent)
 
@@ -87,10 +88,10 @@ tests = 1  # djv
 n_secs = len(test_seconds) 
 
 # set result variables -> 4d variables
-all_match_counter = [[[0 for x in xrange(tests)] for x in xrange(3)] for x in xrange(n_secs)]
-all_matching_times_counter = [[[0 for x in xrange(tests)] for x in xrange(2)] for x in xrange(n_secs)]
-all_query_duration = [[[0 for x in xrange(tests)] for x in xrange(djv.n_lines)] for x in xrange(n_secs)]
-all_match_confidence = [[[0 for x in xrange(tests)] for x in xrange(djv.n_lines)] for x in xrange(n_secs)]
+all_match_counter = [[[0 for x in range(tests)] for x in range(3)] for x in range(n_secs)]
+all_matching_times_counter = [[[0 for x in range(tests)] for x in range(2)] for x in range(n_secs)]
+all_query_duration = [[[0 for x in range(tests)] for x in range(djv.n_lines)] for x in range(n_secs)]
+all_match_confidence = [[[0 for x in range(tests)] for x in range(djv.n_lines)] for x in range(n_secs)]
 
 # group results by seconds
 for line in range(0, djv.n_lines):

@@ -1,6 +1,7 @@
 from __future__ import absolute_import
 from itertools import zip_longest
 import queue
+import numpy as np
 # added
 import pymysql as mysql
 mysql.install_as_MySQLdb()
@@ -236,6 +237,7 @@ class SQLDatabase(Database):
         with self.cursor() as cur:
             cur.execute(self.INSERT_FINGERPRINT, (hash, sid, offset))
 
+
     def insert_song(self, songname, file_hash):
         """
         Inserts song in the database and returns the ID of the inserted record.
@@ -243,6 +245,7 @@ class SQLDatabase(Database):
         with self.cursor() as cur:
             cur.execute(self.INSERT_SONG, (songname, file_hash))
             return cur.lastrowid
+
 
     def query(self, hash):
         """
@@ -313,7 +316,7 @@ class SQLDatabase(Database):
 
 def grouper(iterable, n, fillvalue=None):
     args = [iter(iterable)] * n
-    return (filter(None, values) for values
+    return (list(filter(None, values)) for values
             in zip_longest(fillvalue=fillvalue, *args))
 
 
@@ -343,6 +346,9 @@ class Cursor(object):
         try:
             conn = self._cache.get_nowait()
         except queue.Empty:
+            mysql.converters.encoders[np.float64] = mysql.converters.escape_float
+            mysql.converters.conversions = mysql.converters.encoders.copy()
+            mysql.converters.conversions.update(mysql.converters.decoders)
             conn = mysql.connect(**options)
 
         else:

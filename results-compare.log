@@ -1,0 +1,1398 @@
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_3sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_3sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_3sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_3sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_107_5sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_107_5sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_106_5sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_106_5sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/test_josh.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', './mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_106_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.552
+DEBUG:root:confidence: 64
+DEBUG:root:song start_time: 106
+DEBUG:root:result start time: 106.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_107_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.558
+DEBUG:root:confidence: 792
+DEBUG:root:song start_time: 107
+DEBUG:root:result start time: 107.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_108_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.133
+DEBUG:root:confidence: 9
+DEBUG:root:song start_time: 108
+DEBUG:root:result start time: 108.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_109_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.136
+DEBUG:root:confidence: 158
+DEBUG:root:song start_time: 109
+DEBUG:root:result start time: 109.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_110_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.134
+DEBUG:root:confidence: 18
+DEBUG:root:song start_time: 110
+DEBUG:root:result start time: 110.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.36
+DEBUG:root:confidence: 214
+DEBUG:root:song start_time: 111
+DEBUG:root:result start time: 111.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_111_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.542
+DEBUG:root:confidence: 386
+DEBUG:root:song start_time: 111
+DEBUG:root:result start time: 111.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_117_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.136
+DEBUG:root:confidence: 42
+DEBUG:root:song start_time: 117
+DEBUG:root:result start time: 117.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_122_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.27
+DEBUG:root:confidence: 371
+DEBUG:root:song start_time: 122
+DEBUG:root:result start time: 122.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_124_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.373
+DEBUG:root:confidence: 439
+DEBUG:root:song start_time: 124
+DEBUG:root:result start time: 124.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_14_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.28
+DEBUG:root:confidence: 88
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 9.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_15_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.479
+DEBUG:root:confidence: 759
+DEBUG:root:song start_time: 15
+DEBUG:root:result start time: 15.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_17_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.563
+DEBUG:root:confidence: 764
+DEBUG:root:song start_time: 17
+DEBUG:root:result start time: 17.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_18_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.542
+DEBUG:root:confidence: 89
+DEBUG:root:song start_time: 18
+DEBUG:root:result start time: 2.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_19_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.135
+DEBUG:root:confidence: 1
+DEBUG:root:song start_time: 19
+DEBUG:root:result start time: 28.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_20_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.273
+DEBUG:root:confidence: 86
+DEBUG:root:song start_time: 20
+DEBUG:root:result start time: 20.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_21_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.546
+DEBUG:root:confidence: 490
+DEBUG:root:song start_time: 21
+DEBUG:root:result start time: 21.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_23_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.27
+DEBUG:root:confidence: 53
+DEBUG:root:song start_time: 23
+DEBUG:root:result start time: 23.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_23_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.448
+DEBUG:root:confidence: 179
+DEBUG:root:song start_time: 23
+DEBUG:root:result start time: 23.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_25_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.266
+DEBUG:root:confidence: 143
+DEBUG:root:song start_time: 25
+DEBUG:root:result start time: 25.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_28_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.456
+DEBUG:root:confidence: 540
+DEBUG:root:song start_time: 28
+DEBUG:root:result start time: 28.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_29_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.536
+DEBUG:root:confidence: 79
+DEBUG:root:song start_time: 29
+DEBUG:root:result start time: 29.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_30_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.546
+DEBUG:root:confidence: 538
+DEBUG:root:song start_time: 30
+DEBUG:root:result start time: 30.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_33_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.348
+DEBUG:root:confidence: 73
+DEBUG:root:song start_time: 33
+DEBUG:root:result start time: 33.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_35_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.447
+DEBUG:root:confidence: 135
+DEBUG:root:song start_time: 35
+DEBUG:root:result start time: 35.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_38_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.546
+DEBUG:root:confidence: 274
+DEBUG:root:song start_time: 38
+DEBUG:root:result start time: 38.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_49_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.37
+DEBUG:root:confidence: 465
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_51_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.396
+DEBUG:root:confidence: 253
+DEBUG:root:song start_time: 51
+DEBUG:root:result start time: 51.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_56_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.488
+DEBUG:root:confidence: 505
+DEBUG:root:song start_time: 56
+DEBUG:root:result start time: 56.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_57_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.27
+DEBUG:root:confidence: 30
+DEBUG:root:song start_time: 57
+DEBUG:root:result start time: 57.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_63_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.454
+DEBUG:root:confidence: 133
+DEBUG:root:song start_time: 63
+DEBUG:root:result start time: 63.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_64_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.138
+DEBUG:root:confidence: 147
+DEBUG:root:song start_time: 64
+DEBUG:root:result start time: 64.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_64_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.375
+DEBUG:root:confidence: 570
+DEBUG:root:song start_time: 64
+DEBUG:root:result start time: 64.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_65_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.13
+DEBUG:root:confidence: 23
+DEBUG:root:song start_time: 65
+DEBUG:root:result start time: 65.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_65_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.451
+DEBUG:root:confidence: 180
+DEBUG:root:song start_time: 65
+DEBUG:root:result start time: 65.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_68_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.454
+DEBUG:root:confidence: 299
+DEBUG:root:song start_time: 68
+DEBUG:root:result start time: 68.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_76_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.441
+DEBUG:root:confidence: 76
+DEBUG:root:song start_time: 76
+DEBUG:root:result start time: 76.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_77_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.273
+DEBUG:root:confidence: 283
+DEBUG:root:song start_time: 77
+DEBUG:root:result start time: 77.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_83_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.448
+DEBUG:root:confidence: 212
+DEBUG:root:song start_time: 83
+DEBUG:root:result start time: 83.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_84_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.546
+DEBUG:root:confidence: 462
+DEBUG:root:song start_time: 84
+DEBUG:root:result start time: 84.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_89_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.357
+DEBUG:root:confidence: 62
+DEBUG:root:song start_time: 89
+DEBUG:root:result start time: 89.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_90_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.357
+DEBUG:root:confidence: 527
+DEBUG:root:song start_time: 90
+DEBUG:root:result start time: 90.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_91_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.267
+DEBUG:root:confidence: 32
+DEBUG:root:song start_time: 91
+DEBUG:root:result start time: 91.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_93_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.131
+DEBUG:root:confidence: 8
+DEBUG:root:song start_time: 93
+DEBUG:root:result start time: 93.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_98_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.366
+DEBUG:root:confidence: 277
+DEBUG:root:song start_time: 98
+DEBUG:root:result start time: 98.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_99_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.363
+DEBUG:root:confidence: 199
+DEBUG:root:song start_time: 99
+DEBUG:root:result start time: 99.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_106_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.361
+DEBUG:root:confidence: 69
+DEBUG:root:song start_time: 106
+DEBUG:root:result start time: 85.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_122_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.449
+DEBUG:root:confidence: 289
+DEBUG:root:song start_time: 122
+DEBUG:root:result start time: 122.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_125_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.127
+DEBUG:root:confidence: 10
+DEBUG:root:song start_time: 125
+DEBUG:root:result start time: 233.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_125_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.538
+DEBUG:root:confidence: 118
+DEBUG:root:song start_time: 125
+DEBUG:root:result start time: 125.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_130_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.54
+DEBUG:root:confidence: 195
+DEBUG:root:song start_time: 130
+DEBUG:root:result start time: 109.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_139_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.283
+DEBUG:root:confidence: 252
+DEBUG:root:song start_time: 139
+DEBUG:root:result start time: 139.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_140_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.132
+DEBUG:root:confidence: 22
+DEBUG:root:song start_time: 140
+DEBUG:root:result start time: 140.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_144_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_14_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.328
+DEBUG:root:confidence: 44
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 35.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_153_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.119
+DEBUG:root:confidence: 1
+DEBUG:root:song start_time: 153
+DEBUG:root:result start time: 5.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_171_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.119
+DEBUG:root:confidence: 9
+DEBUG:root:song start_time: 171
+DEBUG:root:result start time: 171.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_174_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.336
+DEBUG:root:confidence: 108
+DEBUG:root:song start_time: 174
+DEBUG:root:result start time: 174.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_175_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.126
+DEBUG:root:confidence: 14
+DEBUG:root:song start_time: 175
+DEBUG:root:result start time: 180.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_175_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.266
+DEBUG:root:confidence: 17
+DEBUG:root:song start_time: 175
+DEBUG:root:result start time: 180.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_175_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.415
+DEBUG:root:confidence: 34
+DEBUG:root:song start_time: 175
+DEBUG:root:result start time: 175.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_17_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.246
+DEBUG:root:confidence: 9
+DEBUG:root:song start_time: 17
+DEBUG:root:result start time: 17.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_17_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.406
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 17
+DEBUG:root:result start time: 17.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_186_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.344
+DEBUG:root:confidence: 215
+DEBUG:root:song start_time: 186
+DEBUG:root:result start time: 186.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_186_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.431
+DEBUG:root:confidence: 250
+DEBUG:root:song start_time: 186
+DEBUG:root:result start time: 186.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_188_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.344
+DEBUG:root:confidence: 272
+DEBUG:root:song start_time: 188
+DEBUG:root:result start time: 188.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_192_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.546
+DEBUG:root:confidence: 171
+DEBUG:root:song start_time: 192
+DEBUG:root:result start time: 213.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_196_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.272
+DEBUG:root:confidence: 68
+DEBUG:root:song start_time: 196
+DEBUG:root:result start time: 217.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_197_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.132
+DEBUG:root:confidence: 47
+DEBUG:root:song start_time: 197
+DEBUG:root:result start time: 197.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_19_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.476
+DEBUG:root:confidence: 36
+DEBUG:root:song start_time: 19
+DEBUG:root:result start time: -2.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_211_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.451
+DEBUG:root:confidence: 113
+DEBUG:root:song start_time: 211
+DEBUG:root:result start time: 206.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_217_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.265
+DEBUG:root:confidence: 34
+DEBUG:root:song start_time: 217
+DEBUG:root:result start time: 217.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_222_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.27
+DEBUG:root:confidence: 32
+DEBUG:root:song start_time: 222
+DEBUG:root:result start time: 201.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_224_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.365
+DEBUG:root:confidence: 93
+DEBUG:root:song start_time: 224
+DEBUG:root:result start time: 256.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_236_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.363
+DEBUG:root:confidence: 171
+DEBUG:root:song start_time: 236
+DEBUG:root:result start time: 236.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_247_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.485
+DEBUG:root:confidence: 114
+DEBUG:root:song start_time: 247
+DEBUG:root:result start time: 205.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_257_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.277
+DEBUG:root:confidence: 269
+DEBUG:root:song start_time: 257
+DEBUG:root:result start time: 257.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_262_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.359
+DEBUG:root:confidence: 99
+DEBUG:root:song start_time: 262
+DEBUG:root:result start time: 220.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_262_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.542
+DEBUG:root:confidence: 165
+DEBUG:root:song start_time: 262
+DEBUG:root:result start time: 262.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_271_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.29
+DEBUG:root:confidence: 53
+DEBUG:root:song start_time: 271
+DEBUG:root:result start time: 250.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_273_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.565
+DEBUG:root:confidence: 63
+DEBUG:root:song start_time: 273
+DEBUG:root:result start time: 265.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_275_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.149
+DEBUG:root:confidence: 78
+DEBUG:root:song start_time: 275
+DEBUG:root:result start time: 204.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_277_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.343
+DEBUG:root:confidence: 25
+DEBUG:root:song start_time: 277
+DEBUG:root:result start time: 277.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_287_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.119
+DEBUG:root:confidence: 3
+DEBUG:root:song start_time: 287
+DEBUG:root:result start time: 287.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_30_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.413
+DEBUG:root:confidence: 171
+DEBUG:root:song start_time: 30
+DEBUG:root:result start time: 30.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_34_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.405
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 34
+DEBUG:root:result start time: 34.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_44_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.482
+DEBUG:root:confidence: 13
+DEBUG:root:song start_time: 44
+DEBUG:root:result start time: 23.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_51_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.481
+DEBUG:root:confidence: 88
+DEBUG:root:song start_time: 51
+DEBUG:root:result start time: 51.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_53_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.486
+DEBUG:root:confidence: 196
+DEBUG:root:song start_time: 53
+DEBUG:root:result start time: 32.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_60_1sec.mp3
